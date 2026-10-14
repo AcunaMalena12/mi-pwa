@@ -1,0 +1,10 @@
+{
+    "name":"MI PWA",
+    "shortname":"mipwa",
+    "start_ult":"/", 
+    "background_color":"#ffffff",
+    "theme_color":"#1e88e5",
+    "icons":[
+        {"src": "icon-512.png","sizes":"512x512","type":"image/png"}
+        ]
+}
